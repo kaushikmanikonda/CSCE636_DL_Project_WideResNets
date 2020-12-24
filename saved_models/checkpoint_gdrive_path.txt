@@ -1,0 +1,7 @@
+Get the file "chkp_epoch240.pt" and place it here.
+
+File location:
+https://drive.google.com/file/d/17yfaZYmwbIhea7JFAGkk1ot0MIM4SuYT/view?usp=sharing
+
+Requires a tamu.edu id for accessing.
+
